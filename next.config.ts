@@ -1,16 +1,12 @@
 import type { NextConfig } from "next";
 
+// Fully static export, hosted on GitHub Pages (free, no request cap).
 const nextConfig: NextConfig = {
+  output: "export",
+  trailingSlash: true,
   reactStrictMode: true,
   poweredByHeader: false,
-  async headers() {
-    return [
-      {
-        source: "/media/:path*",
-        headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }],
-      },
-    ];
-  },
+  images: { unoptimized: true },
 };
 
 export default nextConfig;
