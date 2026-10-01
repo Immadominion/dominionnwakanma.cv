@@ -1,0 +1,452 @@
+{
+ "trimmy": {
+  "poster": "/media/trimmy.webp",
+  "video": "/media/trimmy.mp4",
+  "phoneVideo": null,
+  "shots": [
+   "/media/trimmy-app.webp"
+  ],
+  "icon": "/media/icons/trimmy.webp",
+  "w": 1600,
+  "h": 1000,
+  "note": "video: trimmy.xyz scroll film, 8 s loop (descent onto Federal Hall, colonial hall, brokers, NYSE, trading floor, bell, confetti; dissolves back). altVideo: slow descent from the WALL STREET up-shot onto Federal Hall, 8 s. shots: app.trimmy.xyz practice desk (renders with no sign-in). icon: iOS app icon from FleekerFun/trimmy/apps/mobile.",
+  "altVideo": "/media/trimmy-hall.mp4",
+  "altPoster": "/media/trimmy-hall.webp"
+ },
+ "chumbucket": {
+  "poster": "/media/chumbucket.webp",
+  "video": "/media/chumbucket.mp4",
+  "phoneVideo": "/media/chumbucket-phone.mp4",
+  "shots": [],
+  "icon": "/media/icons/chumbucket.webp",
+  "w": 1600,
+  "h": 1000,
+  "note": "video: chumbucket.fun. The hero is fully static, so the 8 s loop holds it ~1 s, scrolls to \"What you can do\", then dissolves back. phoneVideo: Flutter app (pre-arena build, sample friends, no wallet) - tap \"+12\", All Friends sheet rises, wheel flicks; 6.2 s, 540x1174. icon: iOS app icon (chumbucket-social-calls, newest build).",
+  "phonePoster": "/media/chumbucket-phone.webp",
+  "phoneW": 540,
+  "phoneH": 1174
+ },
+ "aiki": {
+  "poster": "/media/aiki.webp",
+  "video": "/media/aiki.mp4",
+  "phoneVideo": null,
+  "shots": [],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "video: useaiki.xyz 3D city hero (\"Put agents to work.\"), camera swoops into \"Many are listed.\" then dissolves back; 8.9 s."
+ },
+ "plinth": {
+  "poster": "/media/plinth.webp",
+  "video": "/media/plinth.mp4",
+  "phoneVideo": null,
+  "shots": [],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "video: useplinth.xyz bridge hero (\"The base your billing stands on.\"), traffic approaches and danfo buses pass at the end; 7.9 s."
+ },
+ "web3flutter": {
+  "poster": "/media/web3flutter.webp",
+  "video": "/media/web3flutter.mp4",
+  "phoneVideo": null,
+  "shots": [],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "video: web3flutter.dev hero with mascot, then the slanted wipe reveals the app grid; dissolves back; 9 s."
+ },
+ "blueshift": {
+  "poster": "/media/blueshift.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/blueshift.webp",
+   "/media/blueshift-course.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "learn.blueshift.gg Solana Mobile Mastery path + course page (mobile-dapp-fundamentals/introduction). The \"Connect your wallet\" modal was dismissed with \"Don't show again\" and the staking banner closed; no wallet connected."
+ },
+ "coral-xyz": {
+  "poster": "/media/coral-xyz.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/coral-xyz.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "pub.dev/packages/coral_xyz (1.0.0-beta.9). Google cookie bar (accept-only) removed from the DOM before capture."
+ },
+ "dartus": {
+  "poster": "/media/dartus.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/dartus.webp",
+   "/media/dartus-blog.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "pub.dev/packages/dartus (0.3.0) and the Walrus blog post \"Getting Started with Dartus\" (cookie banner declined)."
+ },
+ "hack4futo": {
+  "poster": "/media/hack4futo-stage.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/hack4futo-stage.webp",
+   "/media/hack4futo-winners.webp",
+   "/media/hack4futo-crowd.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Photos: Hack4FUTO 5.0, FUTO Owerri, 25 Jul 2026, by DAVEREPORTS (credit them; their small mark is kept in frame). stage = stage + audience; winners = N1,000,000 cheque on stage; crowd = B&W auditorium. Last shot: hack4futo.org homepage."
+ },
+ "gaffer": {
+  "poster": "/media/gaffer.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "No live site (thegaffer.fun now serves ChumBucket). Poster = 16:10 crop of the YouTube thumbnail (screen recording + face cam).",
+  "youtube": "uJWIe73eG4w"
+ },
+ "axyn": {
+  "poster": "/media/axyn.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "No live site. Poster = 16:10 crop of the YouTube demo thumbnail (NexusBERT Audio Transcriber screen on grid).",
+  "youtube": "ffprCV4oWqU"
+ },
+ "certify": {
+  "poster": "/media/certify.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "No live site. YouTube thumbnail is a letterboxed purple banner; poster puts the band over a blurred copy of itself to fill 16:10. Alt thumbnail: oOdhSv6dBn0 (pitch \"Our Solution\" slide).",
+  "youtube": "Q4azVD1_T8c"
+ },
+ "tip": {
+  "poster": "/media/tip.webp",
+  "video": "/media/tip.mp4",
+  "phoneVideo": null,
+  "shots": [],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "From the local Remotion demo film (projects/tip-video/out/tip-web.mp4): \"Two balances, one wallet\" -> \"It tells you what it cannot hide\"; 7.3 s. phoneShots: app screens (public balance, shielded balance, shield form, shielded receipt), 600 px wide. No real app icon (only the default Flutter icon).",
+  "phoneShots": [
+   "/media/tip-ios-1.webp",
+   "/media/tip-ios-2.webp",
+   "/media/tip-ios-3.webp",
+   "/media/tip-ios-4.webp"
+  ]
+ },
+ "tally": {
+  "poster": "/media/tally.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "FYP attendance app. Poster is a composite of three real-device field-test screens (2026-09-20, test course data) on a mint background. phoneShots: check-in receipt, lecturer live session, \"Find a class\"; Android status bar cropped; 600 px wide.",
+  "phoneShots": [
+   "/media/tally-phone-1.webp",
+   "/media/tally-phone-2.webp",
+   "/media/tally-phone-3.webp"
+  ]
+ },
+ "scrolls": {
+  "poster": "/media/scrolls.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/scrolls.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://www.scrolls.fun, captured 2026-10-01."
+ },
+ "reeg": {
+  "poster": "/media/reeg.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/reeg.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://www.reeg.xyz, captured 2026-10-01."
+ },
+ "quivo": {
+  "poster": "/media/quivo.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/quivo.webp"
+  ],
+  "icon": "/media/icons/quivo.webp",
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://www.usequivo.fun, captured 2026-10-01."
+ },
+ "aura": {
+  "poster": "/media/aura.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/aura.webp"
+  ],
+  "icon": "/media/icons/aura.webp",
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://www.useaura.wtf, captured 2026-10-01. icon: Aura Android/iOS app icon (meteroa-sage/aura)."
+ },
+ "dream": {
+  "poster": "/media/dream.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/dream.webp"
+  ],
+  "icon": "/media/icons/dream.webp",
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://www.trydream.fun, captured 2026-10-01."
+ },
+ "stx": {
+  "poster": "/media/stx.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/stx.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://stx-alpha.vercel.app, captured 2026-10-01."
+ },
+ "canopy": {
+  "poster": "/media/canopy.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/canopy.webp"
+  ],
+  "icon": "/media/icons/canopy.webp",
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://canopy-web-kappa.vercel.app, captured 2026-10-01. trycanopy.xyz does not resolve over HTTPS; this is the Vercel URL."
+ },
+ "throtl": {
+  "poster": "/media/throtl.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/throtl.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://throtl.fun, captured 2026-10-01. No local repo with app assets, so no icon."
+ },
+ "troof": {
+  "poster": "/media/troof.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/troof.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://www.troof.site, captured 2026-10-01."
+ },
+ "blackwiki": {
+  "poster": "/media/blackwiki.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/blackwiki.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://blackwiki.fun, captured 2026-10-01."
+ },
+ "toadwiki": {
+  "poster": "/media/toadwiki.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/toadwiki.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://toadwiki.xyz, captured 2026-10-01."
+ },
+ "drdotun": {
+  "poster": "/media/drdotun.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/drdotun.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://www.drdotun.com, captured 2026-10-01."
+ },
+ "orbit": {
+  "poster": "/media/orbit.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/orbit.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://orbit-psi-ten.vercel.app, captured 2026-10-01. PARTIAL: Flutter web app. Shell and globe render, but the stat cards stay on skeleton loaders even after 75 s (pNode data source not responding). Onboarding tour closed before capture."
+ },
+ "treasury": {
+  "poster": "/media/treasury.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/treasury.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://hack4futo-treasury.vercel.app, captured 2026-10-01."
+ },
+ "bob": {
+  "poster": null,
+  "video": null,
+  "phoneVideo": null,
+  "shots": [],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://bob-whisky-ai-preview.vercel.app, captured 2026-10-01. WEAK: page is an empty state (\"Please enter your username to see recommendations\"); nothing was submitted. Consider the YouTube demo (aB0Qdys_jPU) instead. Poster switched to the YouTube demo thumbnail (site shows an empty state)."
+ },
+ "parallel": {
+  "poster": "/media/parallel.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/parallel.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://parallel-markets.vercel.app, captured 2026-10-01."
+ },
+ "roost": {
+  "poster": "/media/roost.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/roost.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://roost-futo-hostel.vercel.app, captured 2026-10-01."
+ },
+ "sigil": {
+  "poster": "/media/sigil.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/sigil.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://sigil-teal.vercel.app, captured 2026-10-01."
+ },
+ "seal": {
+  "poster": "/media/seal.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/seal.webp"
+  ],
+  "icon": null,
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://sentinel-eight-blush.vercel.app, captured 2026-10-01."
+ },
+ "factor": {
+  "poster": "/media/factor.webp",
+  "video": null,
+  "phoneVideo": null,
+  "shots": [
+   "/media/factor.webp",
+   "/media/factor-appstore.webp"
+  ],
+  "icon": "/media/icons/factor.webp",
+  "w": 1600,
+  "h": 1000,
+  "note": "Live homepage https://website-tawny-five-47.vercel.app, captured 2026-10-01. Second shot: App Store listing (id6753987530). phoneShots: the 4 App Store screenshots, 600 px wide.",
+  "phoneShots": [
+   "/media/factor-ios-1.webp",
+   "/media/factor-ios-2.webp",
+   "/media/factor-ios-3.webp",
+   "/media/factor-ios-4.webp"
+  ]
+ },
+ "youtube": {
+  "QxCdAqb9RfA": "/media/yt/QxCdAqb9RfA.webp",
+  "xqHc5U0V38Q": "/media/yt/xqHc5U0V38Q.webp",
+  "AoeWvDOFTMc": "/media/yt/AoeWvDOFTMc.webp",
+  "ukaY9cA6plE": "/media/yt/ukaY9cA6plE.webp",
+  "jSc19XFcoDE": "/media/yt/jSc19XFcoDE.webp",
+  "S2YpH4v1vL0": "/media/yt/S2YpH4v1vL0.webp",
+  "uJWIe73eG4w": "/media/yt/uJWIe73eG4w.webp",
+  "9TNQ2p8RQZk": "/media/yt/9TNQ2p8RQZk.webp",
+  "z1EHdjg1hE8": "/media/yt/z1EHdjg1hE8.webp",
+  "5VQ5A9RlEPs": "/media/yt/5VQ5A9RlEPs.webp",
+  "bgC_f6LuOlc": "/media/yt/bgC_f6LuOlc.webp",
+  "ffprCV4oWqU": "/media/yt/ffprCV4oWqU.webp",
+  "_7IUDltcbz8": "/media/yt/_7IUDltcbz8.webp",
+  "g52rt7ELLjI": "/media/yt/g52rt7ELLjI.webp",
+  "DbsoCF8LCLU": "/media/yt/DbsoCF8LCLU.webp",
+  "pFySPCX5nGA": "/media/yt/pFySPCX5nGA.webp",
+  "782SszodUP0": "/media/yt/782SszodUP0.webp",
+  "YRaO5f4nSeo": "/media/yt/YRaO5f4nSeo.webp",
+  "Trl4Dw_0MUg": "/media/yt/Trl4Dw_0MUg.webp",
+  "-_4wB1kaThA": "/media/yt/-_4wB1kaThA.webp",
+  "qzT3mkay_do": "/media/yt/qzT3mkay_do.webp",
+  "z8bbGEjMFcU": "/media/yt/z8bbGEjMFcU.webp",
+  "vPE9Twedii0": "/media/yt/vPE9Twedii0.webp",
+  "6y-QiJzB81E": "/media/yt/6y-QiJzB81E.webp",
+  "_-0w_ao0MAU": "/media/yt/_-0w_ao0MAU.webp",
+  "oOdhSv6dBn0": "/media/yt/oOdhSv6dBn0.webp",
+  "aB0Qdys_jPU": "/media/yt/aB0Qdys_jPU.webp",
+  "H3kNqWaiivY": "/media/yt/H3kNqWaiivY.webp",
+  "KvS6aEtUEPI": "/media/yt/KvS6aEtUEPI.webp",
+  "Q4azVD1_T8c": "/media/yt/Q4azVD1_T8c.webp"
+ }
+}
