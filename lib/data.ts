@@ -632,8 +632,8 @@ export const fitMobile: Fit[] = [
     links: [{ label: "Watch the friend picker", href: "/work/chumbucket" }],
   },
   {
-    ask: "Native code and React Native",
-    proof: "Flutter is my strongest mobile stack. I wrote Blueshift's five-course Solana Mobile path with React Native and Expo examples. I also fixed Android configuration in Espresso Cash's mobile wallet library. That fix was merged. I am still building depth in Swift and Kotlin.",
+    ask: "Flutter, React Native and Android tooling",
+    proof: "Flutter is my strongest mobile stack. I wrote Blueshift's five-course Solana Mobile path with React Native and Expo examples. I also fixed Android configuration in Espresso Cash's mobile wallet library. That fix was merged.",
     links: [
       { label: "Blueshift course", href: "https://learn.blueshift.gg/en/paths/solana-mobile-mastery" },
       { label: "Merged Android fix", href: "https://github.com/espresso-cash/espresso-cash-public/pull/1731" },
@@ -711,12 +711,6 @@ export const fitProduct: Fit[] = [
       { label: "GitHub", href: "https://github.com/Immadominion" },
     ],
   },
-];
-
-export const gaps: { title: string; detail: string }[] = [
-  { title: "Years of experience", detail: "My professional work began in 2023. That is below your five-year Mobile and seven-year Product requirements. The projects and linked contributions above show what I have built so far." },
-  { title: "Native mobile depth", detail: "My strongest mobile work is Flutter, with React Native and Expo teaching work. I do not yet have the depth in Swift or Kotlin that the Mobile role asks for." },
-  { title: "Hermes Agent", detail: "I have not used or contributed to Hermes Agent yet. My relevant experience comes from building AiKi and tools for coding agents." },
 ];
 
 export const firstMonth: { when: string; what: string }[] = [

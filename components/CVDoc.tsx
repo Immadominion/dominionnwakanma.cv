@@ -34,10 +34,10 @@ const workNotes: Record<string, string> = {
 
 function summary(role: CVRole) {
   if (role === "mobile")
-    return "I build mobile apps and the servers behind them. My strongest stack is Flutter, Dart and TypeScript. I wrote Blueshift's Solana Mobile courses in React Native and Expo, and maintain 13 Dart packages. My professional work began in 2023.";
+    return "I build mobile apps and the servers behind them. My strongest stack is Flutter, Dart and TypeScript. I wrote Blueshift's Solana Mobile courses in React Native and Expo, and maintain 13 Dart packages.";
   if (role === "product")
-    return "I build products from the first screen to the API, database and launch. Recent work includes AiKi, a marketplace for AI agents, and Trimmy, a stock-market learning game. My strongest languages are TypeScript and Dart; I also work with Python and Rust. My professional work began in 2023.";
-  return "I build mobile apps, web products and the servers behind them. I also design their interfaces, write developer tools and teach others how to use them. Author of Blueshift's Solana Mobile courses and 13 Dart packages. Convener of Hack4FUTO 5.0. Professional work since 2023.";
+    return "I build products from the first screen to the API, database and launch. Recent work includes AiKi, a marketplace for AI agents, and Trimmy, a stock-market learning game. My strongest languages are TypeScript and Dart; I also work with Python and Rust.";
+  return "I build mobile apps, web products and the servers behind them. I also design their interfaces, write developer tools and teach others how to use them. Author of Blueshift's Solana Mobile courses and 13 Dart packages. Convener of Hack4FUTO 5.0.";
 }
 
 function Item({ a, b }: { a: React.ReactNode; b?: string }) {

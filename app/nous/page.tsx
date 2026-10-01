@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
-import { site, fitMobile, fitProduct, gaps, firstMonth, vouches, nousPost, type Fit } from "@/lib/data";
+import { site, fitMobile, fitProduct, firstMonth, vouches, nousPost, type Fit } from "@/lib/data";
 
 const title = "Dominion Nwakanma · For Nous Research";
 const description = "A 75-second film, real projects and public contributions for Nous Research's Mobile and Product engineering roles.";
@@ -111,18 +111,6 @@ export default function Nous() {
           <section className="section" id="product" aria-labelledby="product-title">
             <h2 id="product-title">Software Engineer, Product</h2>
             <FitList items={fitProduct} />
-          </section>
-
-          <section className="section">
-            <h2>The gaps, plainly</h2>
-            <ol className="fit">
-              {gaps.map((g) => (
-                <li key={g.title}>
-                  <p className="secondary">{g.title}</p>
-                  <p>{g.detail}</p>
-                </li>
-              ))}
-            </ol>
           </section>
 
           <section className="section section-tight">
